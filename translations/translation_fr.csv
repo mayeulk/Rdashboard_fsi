@@ -1,0 +1,41 @@
+en, fr
+Hello Shiny!, Bonjour Shiny!
+Histogram of x,	Histogramme de x
+This is description of the plot., Ceci est la description du graphique.
+Frequency, Fréquence
+Number of bins:, Nombre de classes:
+Change language, Changer la langue
+"dashboard", "tableau de bord"
+"version", ""
+"First variable:", ""
+"Second variable:", ""
+"Third variable:", ""
+"Countries:", ""
+"Show all countries in histogram, scaterplot matrix and table (bypass list of countries)", ""
+"Show all countries", ""
+"bypass list of countries", ""
+"Year", ""
+"Year for histogram, radar plot and scaterplot matrix", ""
+"First year of current period", ""
+"Last year of current period", ""
+"Charts and table to display", ""
+"1st var.", ""
+"1st/2nd var.", ""
+"Histogram", ""
+"Radar1", ""
+"Radar2", ""
+"3D", ""
+"Scaterplot matrix", ""
+"Table", ""
+"Show all variables in scaterplot matrix and table", ""
+"Show all variables", ""
+"Max. number of bins for histogram", ""
+"Legend", ""
+"Scroll to the Table then hover table headings for details on each variables.", ""
+"Data source", ""
+"License", ""
+"Description and units", ""
+"Index Components", ""
+"Size of circles (xy-plot with 1st/2nd var.)", ""
+"Components of the composite index are displayed on the radar plots.", ""
+"Components of the composite index are displayed on the radar plot.", ""
